@@ -42,7 +42,10 @@ def FD():
     print('\x1b[1;33m [1] ENTER ')
     print(' [2] EXIT')
  
-        o()
+  
+    
+    
+ 
         return None
     None('\n\x1b[1;31mEXIT\x1b[0;97m')
 
